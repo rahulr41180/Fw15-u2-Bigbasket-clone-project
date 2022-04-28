@@ -56,7 +56,10 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
   <source src="mov_bbb.ogg" type="video/ogg">
 </video>
 
-https://drive.google.com/file/d/1mjxH8rRUVyVKERHKB4zRJsdYcqivsUeM/view?usp=sharing
+<a  target="_blank"
+    href="https://drive.google.com/file/d/1mjxH8rRUVyVKERHKB4zRJsdYcqivsUeM/view?usp=sharing">
+    https://drive.google.com/file/d/1mjxH8rRUVyVKERHKB4zRJsdYcqivsUeM/view?usp=sharing
+</a>
 
 <div style='page-break-after: always'></div>
 

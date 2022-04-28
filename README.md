@@ -15,7 +15,7 @@ In this project we have tried to make a clone of <a href="https://www.bigbasket.
 
 Deployed using Netlify 
 ```
-
+https://bigbasketcloneproject.netlify.app/
 ```
 
 ### <u>Run Locally</u>
@@ -24,6 +24,7 @@ Clone the project
 
 ```
 https://github.com/rahulr41180/Fw15-u2-Bigbasket-clone-project
+```
 
 <div style='page-break-after: always'></div>
 
@@ -40,13 +41,21 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 
 ### <u>Functionalities</u>
 
-- Login Confirmation
+- Login and Signup page
+- Payment Method
+- Add To Cart
+- Checkout Page
 - Sorting
 - Filtering
 
 <div style='page-break-after: always'></div>
 
 ### <u>A short clip which will give Project Overview</u>
+
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+</video>
 
 https://drive.google.com/file/d/1mjxH8rRUVyVKERHKB4zRJsdYcqivsUeM/view?usp=sharing
 

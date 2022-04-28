@@ -3,7 +3,7 @@
 
 In this project we have tried to make a clone of <a href="https://www.bigbasket.com" target="_blank">Bigbasket Website</a>. With our efforts and the technology stack,we were able to clone the front end, integrated it with backend and added similar looks and features.
 
-<img src="https://miro.medium.com/max/700/1*2Voxui3UkcSpu61UVhCDmg.png" alt="" />
+<img width="98%" src="https://miro.medium.com/max/700/1*2Voxui3UkcSpu61UVhCDmg.png" alt="" />
 
 <img src="https://miro.medium.com/max/700/1*k0HvnOk0ij514nvs43bfoQ.png" alt="" />
 

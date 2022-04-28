@@ -15,7 +15,7 @@ In this project we have tried to make a clone of <a href="https://www.bigbasket.
 
 Deployed using Netlify 
 ```
-https://bigbasketcloneproject.netlify.app/
+<a href="https://bigbasketcloneproject.netlify.app/" target="_blank">https://bigbasketcloneproject.netlify.app/</a>
 ```
 
 ### <u>Run Locally</u>

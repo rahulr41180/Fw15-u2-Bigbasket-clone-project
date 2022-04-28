@@ -16,7 +16,7 @@ In this project we have tried to make a clone of <a href="https://beminimalist.c
 Deployed using Netlify 
 ```
 
- ```
+```
 
 ### <u>Run Locally</u>
 

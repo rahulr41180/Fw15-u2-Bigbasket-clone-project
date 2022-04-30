@@ -51,12 +51,6 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 
 ### <u>A short clip which will give Project Overview</u>
 
-<video width="400" controls>
-  <source src="https://drive.google.com/file/d/1mjxH8rRUVyVKERHKB4zRJsdYcqivsUeM/view?usp=sharing" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-</video>
-
-
 <a  target="_blank"
     href="https://drive.google.com/file/d/1mjxH8rRUVyVKERHKB4zRJsdYcqivsUeM/view?usp=sharing">
     https://drive.google.com/file/d/1mjxH8rRUVyVKERHKB4zRJsdYcqivsUeM/view?usp=sharing
@@ -75,29 +69,7 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 
 > <a href="https://medium.com/@www.rahulr41180/cloning-of-bigbasket-website-2aa3461ef289" target="_blank">Blog</a>
 
-<b>Devashish Kumar</b>
-
-> <a href="https://github.com/deva8445" target="_blank">Github</a>
-
-> <a href="https://www.linkedin.com/in/kumar-deva/" target="_blank">Linkedin</a>
-
-> <a href="https://medium.com/@devashish.kumar8445/clone-of-minimalist-co-including-frontend-backend-8fcca8f7df74" target="_blank">Blog</a>
-
-<b>Pooja Waghchaure</b>
-
-> <a href="https://github.com/waghchaurepooja" target="_blank">Github</a>
-
-> <a href="https://www.linkedin.com/in/pooja-waghchaure/" target="_blank">Linkedin</a>
-
-> <a href="https://medium.com/@poojawaghchaure28/clone-of-beminimalist-co-including-frontend-backend-d5d886c8937" target="_blank">Blog</a>
-
-<b>Chanchal Verma</b>
-
-> <a href="https://github.com/ChanchalS7" target="_blank">Github</a>
-
-> <a href="https://www.linkedin.com/in/chanchals7/" target="_blank">Linkedin</a>
-
-> <a href="https://chsverma7.medium.com/clone-of-beminimalist-co-including-frontend-backend-7cf352b5d652" target="_blank">Blog</a>
+> <a href="https://rahul-rathor-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 ### <u>You can read more about our project on our blog : <a href="https://medium.com/@www.rahulr41180/cloning-of-bigbasket-website-2aa3461ef289" target="_blank">Clone of beminimalist.co</a> </u>
 
